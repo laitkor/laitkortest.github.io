@@ -9,12 +9,12 @@ excerpt: |
 [Company](/company) > [Careers at Savas Labs](/careers) -> Drupal developer
 
 <p style="text-align:center;">
-  <img src="/assets/img/jobs/drupal 8 logo isolated.svg" alt="Drupal 8 logo" class="center" style="width: 100%; max-width: 300px;">
+  <img src="/assets/img/jobs/drupal 8 logo isolated.png" alt="Drupal 8 logo" class="center" style="width: 100%; max-width: 300px;">
 </p>
 
 ### The position
 
-We are looking to hire a **mid-level to senior Drupal developer** to add to our core team. Along with substantial Drupal development experience, we greatly honor a desire for continuous growth and learning. You will have the chance to work with a stellar team this is **primarily located in [Durham, NC](/durham)**, though we have a number of team members and supporting contractors that work remotely. We are **looking to fill the role in [Durham, NC](/durham)** but will consider the right remote candidate. At Savas, you will have a voice in the kind of work you find most rewarding, and we will do what we can to meet your preferences.
+We are looking to hire a **mid-level to senior Drupal developer** to add to our core team. Along with extensive Drupal development experience, we greatly honor a desire for continuous growth and learning. You will have the chance to work with a stellar team that is **primarily located in [Durham, NC](/durham)**, though we have a number of team members and supporting contractors that work remotely. We are **looking to fill the role in [Durham, NC](/durham)** but will consider the right remote candidate. At Savas, you will have a voice in the kind of work you find most rewarding, and we will do what we can to meet your preferences.
 
 ### Working at Savas Labs
 
@@ -31,7 +31,7 @@ At Savas Labs, we prioritize a few things. We like people who are enjoyable to w
 + Semi-annual team retreats
 + Weekly team lunches
 + Monthly skill-share sessions
-+ Conference presentation opportunities
++ Conference presentation and attendance opportunities
 + 24/7 access to the [American Underground](http://americanunderground.com/) (for on-site Durham, NC employees)
 
 #### About You
@@ -42,7 +42,7 @@ At Savas Labs, we prioritize a few things. We like people who are enjoyable to w
   + an interest in learning/teaching/growing
   + a detail-oriented approach
   + pride in the quality of your work
-+ You have extensive experience with
++ You have substantial experience with
   + writing custom modules
   + drush
   + the command line
@@ -55,11 +55,11 @@ At Savas Labs, we prioritize a few things. We like people who are enjoyable to w
   + best practices
 + Bonus points for knowledge in
   + automated testing
-  + Javascript frameworks (e.g. React)
+  + javascript frameworks (e.g. React)
 
 #### Our projects
 
-As a full-service digital agency, we partner with clients to fulfill their strategy, design, user experience, and development needs. We work with high-profile corporate and nonprofit clients who operate in many different industries. In the past year we've worked with small, local nonprofits to elite international universities with technology platforms that include Drupal, Jekyll, Laravel, and React spanning the languages of Ruby Javascript and PHP. You don't need to know all these technologies like the back of your hand, but you will bring a lot of value to the team if you're able to productively contribute to a variety of projects and technologies simultaneously.
+As a full-service digital agency, we partner with clients to fulfill their strategy, design, user experience, and development needs. We work with high-profile corporate and nonprofit clients who operate in many different industries. In the past year we’ve worked with small, local nonprofits to elite international universities with technology platforms that include Drupal, Jekyll, Laravel, and React spanning the languages of Ruby, Javascript, and PHP. You don’t need to know all these technologies, but you will bring a lot of value to the team if you’re able to productively contribute to a variety of projects and technologies simultaneously apart from your Drupal focus.
 
 ---
 
