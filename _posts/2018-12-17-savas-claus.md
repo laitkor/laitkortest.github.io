@@ -7,7 +7,7 @@ tags: open-source team company-culture
 summary: "We wrote a Slack app to help facilitate our first annual office secret santa: Savas Claus™!"
 description: "We wrote a Slack app to help facilitate our first annual office secret santa: Savas Claus™!"
 image: "/blog/savasclaus.png"
-featured_image: "/blog/savasclaus.png"
+featured_image: "/assets/img/blog/savasclaus.png"
 featured_image_alt: "Savas Claus logo"
 
 ---
